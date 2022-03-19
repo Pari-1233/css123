@@ -1,0 +1,83 @@
+
+body{
+    background-color:#D8DA3D ;
+    width:1220px;
+}
+ h1
+ {
+     color:purple;
+     font-family: sans-serif;
+ }
+ 
+ div
+ {
+     
+     height :6em
+
+ }
+ .dotted
+ {
+     border-bottom:1px dotted #80007E;
+     margin-bottom:2px;
+     position: relative;
+     left: 200px;
+     bottom: 10px;
+
+ }
+ div p
+ {
+     color:#80007E;}
+div span{
+color:#80007E
+}
+.html{
+font-family: georgia;
+background-color: white;
+height: 20px;
+width: 12%;
+border-right: 15px solid black;
+bottom: 300px;
+color: #80007E;
+position: relative;
+padding: 5px;
+}
+.css{
+background-color: white;
+border-right: 15px solid black;
+height: 20px;
+width: 12%;
+color: #80007E;
+background-position: left top ;
+bottom: 290px;
+position: relative;
+padding: 5px;
+font-family: georgia;
+}
+.js{
+background-color: white;
+height: 20px;
+width: 12%;
+border-right: 15px solid black;
+font-family: georgia;
+color: #80007E;
+bottom: 280px;
+position: relative;
+padding: 5px;
+
+}
+.PHP{
+background-color: white;
+height: 20px;
+width: 12%;
+border-right: 15px solid black;
+color: #80007E;
+bottom: 270px;
+position: relative;
+padding: 5px;
+font-family: georgia;
+}
+.para
+{
+position: relative;
+left: 200px;
+bottom: 10px;
